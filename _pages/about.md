@@ -22,6 +22,34 @@ News
 * [09/2023] I won the SK CEO Award at the [ICT Challenge 2023](https://ksrc.dongguk.edu/ksrc7_2/16)!
 * [02/2023 - 09/2022] I studied at the University of Birmingham, UK as a visiting scholar.
 
-<!-- Publications
------ -->
+Publications
+-----
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="/images/AAAI2025.png" style=" vertical-align:middle" width="200" />
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://zihos.github.io/publications/">Collaborative Learning for 3D Hand-Object Reconstruction and Compositional Action Recognition from Egocentric RGB Videos Using Superquadrics</a>
+      <br>‪Tze Ho Elden Tse, Runyang Feng, Linfang Zheng, <b>Jiho Park</b>, Yixing Gao, Jihie Kim, Ales Leonardis, Hyung Jin Chang
+      <br> AAAI, 2025
+      <br> 
+      <a href="https://arxiv.org/pdf/2501.07100">[pdf]</a>
+      <!-- <br> We introduce a collaborative learning framework for 3D hand-object reconstruction and compositional action recognition using superquadrics. -->
+    </td>
+  </tr>
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="/images/ICAIIC2025.png" style=" vertical-align:middle" width="200" />
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://zihos.github.io/publications/">Simulating Mobile Robot Vision: An Analysis of RGB-D versus RGB-Based Distance Accuracy and CPU Optimization</a>
+      <br>‪Minseok Kong, <b>Jiho Park</b>, Daye Lee, Nikolaos Kourtzanidis, Jungmin So
+      <br> ICAIIC, 2025
+      <br> 
+      <a href="http://zihos.github.io/files/ICAIIC2025.pdf">[pdf]</a>
+      <!-- <br> We introduce a collaborative learning framework for 3D hand-object reconstruction and compositional action recognition using superquadrics. -->
+    </td>
+  </tr>
 
