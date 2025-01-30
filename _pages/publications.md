@@ -39,7 +39,7 @@ author_profile: true
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://zihos.github.io/publications/">Detection of Cervical Foraminal Stenosis from Oblique Radiograph Using Convolutional Neural Network Algorithm</a>
-      <br>‪Jihie Kim, Jae Jun Yang, Jaeha Song, SeongWoon Jo, YoungHoon Kim, <b>Jiho Park*</b>, Jin Bog Lee, Gun Woo Lee, Sehan Park
+      <br>‪Jihie Kim, Jae Jun Yang, Jaeha Song, SeongWoon Jo, YoungHoon Kim, <b>Jiho Park</b>, Jin Bog Lee, Gun Woo Lee, Sehan Park
       <br> YMJ, 2024
       <br> 
       <a href="https://eymj.org/pdf/10.3349/ymj.2023.0091">[pdf]</a>
