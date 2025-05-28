@@ -15,13 +15,13 @@ For full CV, download [[__pdf__](http://zihos.github.io/files/JihoPark_CV_2025.p
 
 News
 -----
-* [01/2025] One paper is submitted to IJCAI 2025!
+* [05/2025] Open to Ph.D. opportunities!
 * [12/2024] One paper is accepted to AAAI 2025!
 * [12/2024] One paper is accepted to [ICAIIC](https://icaiic.org/) 2025!
 * [08/2024] I successfully earned my Master's degree! 
-* [01/2024 - 06/2024] I studied at the University of Toronto, Canada as a visiting scholar.
+* [01/2024 - 06/2024] I studied at the University of Toronto, Canada, as a visiting scholar.
 * [09/2023] I won the SK CEO Award at the [ICT Challenge 2023](https://ksrc.dongguk.edu/ksrc7_2/16)!
-* [02/2023 - 09/2022] I studied at the University of Birmingham, UK as a visiting scholar.
+* [02/2023 - 09/2022] I studied at the University of Birmingham, UK, as a visiting scholar.
 
 Publications
 -----
