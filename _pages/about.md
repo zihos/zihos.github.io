@@ -21,7 +21,7 @@ News
 * [Aug 2024] I successfully earned my Master's degree! 
 * [Jan 2024 - June 2024] I studied at the University of Toronto, Canada, as a visiting scholar.
 * [Sept 2023] I won the SK CEO Award at the [ICT Challenge 2023](https://ksrc.dongguk.edu/ksrc7_2/16)!
-* [Feb - Sept 2022] I studied at the University of Birmingham, UK, as a visiting scholar.
+* [Feb 2022 - Sept 2022] I studied at the University of Birmingham, UK, as a visiting scholar.
 
 Publications
 -----
