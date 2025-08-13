@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Assistant at Dongguk University, South Korea, working on vision-language alignment for sketch images under the supervision of Prof. [Jihie Kim](https://sites.google.com/view/jihiekim/). I previously obtained my Master's Degree at Dongguk University, under the supervision of Prof. [Jihie Kim](https://sites.google.com/view/jihiekim/). My research focused on Computer Vision, Multi-modal learning, and Image generation. I earned a Bachelor of Science in Computer Science and Engineering from Dongguk University, graduating with honors (95.0%) in August 2022. 
+I am currently a Ph.D. student at Dongguk University, South Korea, working on vision-language alignment for sketch images under the supervision of Prof. [Jihie Kim](https://sites.google.com/view/jihiekim/). I previously obtained my Master's Degree at Dongguk University, under the supervision of Prof. [Jihie Kim](https://sites.google.com/view/jihiekim/). My research focused on Computer Vision, Multi-modal learning, and Image generation. I earned a Bachelor of Science in Computer Science and Engineering from Dongguk University, graduating with honors (95.0%) in August 2022. 
 
 My research interests include Computer Vision, Vision-Language Alignment, Multi-modal Learning, and Text-to-Image Generation. 
 
