@@ -11,7 +11,7 @@ I am currently a Ph.D. student at Dongguk University, South Korea, working on vi
 
 My research interests include Computer Vision, Vision-Language Alignment, Multi-modal Learning, and Text-to-Image Generation. 
 
-For full CV, download [[__pdf__](http://zihos.github.io/files/CV_JihoPark_2025.pdf)]. Last updated on 04/2025.
+For full CV, download [[__pdf__](http://zihos.github.io/files/CV_JihoPark_2025.pdf)]. Last updated on 09/2025.
 
 News
 -----
