@@ -15,7 +15,7 @@ For full CV, download [[__pdf__](http://zihos.github.io/files/CV_JihoPark_2025.p
 
 News
 -----
-* [Aug 2025] I started internship at Rainbow Robotics
+* [Aug 2025] I started my internship at Rainbow Robotics
 * [Dec 2024] One paper is accepted to AAAI 2025!
 * [Dec 2024] One paper is accepted to [ICAIIC](https://icaiic.org/) 2025!
 * [Aug 2024] I successfully earned my Master's degree! 
