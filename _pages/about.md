@@ -15,6 +15,7 @@ For full CV, download [[__pdf__](http://zihos.github.io/files/CV_JihoPark_2025.p
 
 News
 -----
+* [Feb 2026] One papre is accepted to CVPR 2026!
 * [Aug 2025] I started my internship at [Rainbow Robotics](https://www.rainbow-robotics.com/en_main?_l=en)
 * [Dec 2024] One paper is accepted to AAAI 2025!
 * [Dec 2024] One paper is accepted to [ICAIIC](https://icaiic.org/) 2025!
