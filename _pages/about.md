@@ -11,7 +11,7 @@ I am currently a Ph.D. student at Dongguk University, South Korea, working on vi
 
 My research interests include Computer Vision, Vision-Language Alignment, Multi-modal Learning, and Text-to-Image Generation. 
 
-For full CV, download [[__pdf__](http://zihos.github.io/files/CV_JihoPark_2025.pdf)]. Last updated on 09/2025.
+For full CV, download [[__pdf__](http://zihos.github.io/files/CV_JihoPark_2026.pdf)]. Last updated on 06/2026.
 
 News
 -----
@@ -26,6 +26,20 @@ News
 
 Publications
 -----
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="/images/CVPR2026.png" style=" vertical-align:middle" width="200" />
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://zihos.github.io/SEA/">SEA: Evaluating Sketch Abstraction Efficiency via Element-level Commonsense Visual Question Answering</a>
+      <br><b>Jiho Park</b>, Sieun Choi, Jaeyoon Seo, Minho Sohn, Yeana Kim, Jihie Kim
+      <br> CVPR, 2026
+      <br> 
+      <a href="https://arxiv.org/pdf/2603.28363">[pdf]</a>
+    </td>
+  </tr>
+
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
